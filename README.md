@@ -1,4 +1,4 @@
-# Hey, i'm Davi Job 😑
+# Hey, i'm Davi Job 🦾
 
 ![github hero](https://github.com/davi-job/davi-job/assets/74321835/992ec904-62db-4cbe-add0-b2c3d7f1e5b3)
 
