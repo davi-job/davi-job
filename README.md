@@ -35,8 +35,8 @@ On my portfolio website, I feature a selection of my projects along with insight
 <a href="https://github.com/davi-job/preciweather">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=davi-job&repo=preciweather&theme=midnight-purple&border_color=8662f3" />
 </a>
-<a href="https://github.com/davi-job/job-website">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=davi-job&repo=job-website&theme=midnight-purple&border_color=8662f3" />
+<a href="https://github.com/davi-job/NoteIt">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=davi-job&repo=NoteIt&theme=midnight-purple&border_color=8662f3" />
 </a>
 
 
